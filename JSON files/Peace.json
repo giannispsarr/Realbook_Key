@@ -1,0 +1,29 @@
+{
+  "title": "Peace",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Bb major",
+      "time_start": "01:00:01:17.68",
+      "time_end": "01:00:06:21.34"
+    },
+    {
+      "keynum": 2,
+      "key": "A major",
+      "time_start": "01:00:06:21.34",
+      "time_end": "01:00:10:07.11"
+    },
+    {
+      "keynum": 3,
+      "key": "Db major",
+      "time_start": "01:00:10:07.11",
+      "time_end": "01:00:13:17.68"
+    },
+    {
+      "keynum": 4,
+      "key": "Bb major",
+      "time_start": "01:00:13:17.68",
+      "time_end": "01:00:18:21.34"
+    }
+  ]
+}

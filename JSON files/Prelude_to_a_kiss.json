@@ -1,0 +1,23 @@
+{
+  "title": "Prelude to a kiss",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "C major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:09:21.12"
+    },
+    {
+      "keynum": 2,
+      "key": "E major",
+      "time_start": "01:00:09:21.12",
+      "time_end": "01:00:18:11.43"
+    },
+    {
+      "keynum": 3,
+      "key": "C major",
+      "time_start": "01:00:18:11.43",
+      "time_end": "01:00:29:13.37"
+    }
+  ]
+}

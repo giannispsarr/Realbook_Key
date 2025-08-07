@@ -1,0 +1,23 @@
+{
+  "title": "Sophisticated lady",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Ab major",
+      "time_start": "01:00:01:17.68",
+      "time_end": "01:00:13:17.68"
+    },
+    {
+      "keynum": 2,
+      "key": "G major",
+      "time_start": "01:00:13:17.68",
+      "time_end": "01:00:25:17.68"
+    },
+    {
+      "keynum": 3,
+      "key": "Ab major",
+      "time_start": "01:00:25:17.68",
+      "time_end": "01:00:42:21.34"
+    }
+  ]
+}

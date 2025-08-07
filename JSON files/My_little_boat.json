@@ -1,0 +1,29 @@
+{
+  "title": "My little boat",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "G major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:02:22.58"
+    },
+    {
+      "keynum": 2,
+      "key": "F major",
+      "time_start": "01:00:02:22.58",
+      "time_end": "01:00:08:18.14"
+    },
+    {
+      "keynum": 3,
+      "key": "Eb major",
+      "time_start": "01:00:08:18.14",
+      "time_end": "01:00:13:02.21"
+    },
+    {
+      "keynum": 4,
+      "key": "G major",
+      "time_start": "01:00:13:02.21",
+      "time_end": "01:00:24:18.14"
+    }
+  ]
+}

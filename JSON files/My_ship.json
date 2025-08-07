@@ -1,0 +1,23 @@
+{
+  "title": "My ship",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F major",
+      "time_start": "01:00:01:06.46",
+      "time_end": "01:00:15:03.75"
+    },
+    {
+      "keynum": 2,
+      "key": "A minor",
+      "time_start": "01:00:15:03.75",
+      "time_end": "01:00:18:23.54"
+    },
+    {
+      "keynum": 3,
+      "key": "F major",
+      "time_start": "01:00:18:23.54",
+      "time_end": "01:00:39:03.75"
+    }
+  ]
+}

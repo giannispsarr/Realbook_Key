@@ -1,0 +1,23 @@
+{
+  "title": "They can't take that away from me",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Eb major",
+      "time_start": "01:00:01:10.23",
+      "time_end": "01:00:11:07.28"
+    },
+    {
+      "keynum": 2,
+      "key": "G major",
+      "time_start": "01:00:11:07.28",
+      "time_end": "01:00:18:08.65"
+    },
+    {
+      "keynum": 3,
+      "key": "Eb major",
+      "time_start": "01:00:18:08.65",
+      "time_end": "01:00:40:23.42"
+    }
+  ]
+}

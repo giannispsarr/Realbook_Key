@@ -1,0 +1,41 @@
+{
+  "title": "Recordame",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "A minor",
+      "time_start": "01:00:01:16.30",
+      "time_end": "01:00:06:15.41"
+    },
+    {
+      "keynum": 2,
+      "key": "C minor",
+      "time_start": "01:00:06:15.41",
+      "time_end": "01:00:11:14.52"
+    },
+    {
+      "keynum": 3,
+      "key": "Bb major",
+      "time_start": "01:00:11:14.52",
+      "time_end": "01:00:14:22.33"
+    },
+    {
+      "keynum": 4,
+      "key": "Ab major",
+      "time_start": "01:00:14:22.33",
+      "time_end": "01:00:18:05.13"
+    },
+    {
+      "keynum": 5,
+      "key": "Gb major",
+      "time_start": "01:00:18:05.13",
+      "time_end": "01:00:21:12.74"
+    },
+    {
+      "keynum": 6,
+      "key": "F major",
+      "time_start": "01:00:21:12.74",
+      "time_end": "01:00:28:03.35"
+    }
+  ]
+}

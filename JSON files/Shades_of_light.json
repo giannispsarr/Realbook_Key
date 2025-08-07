@@ -1,0 +1,23 @@
+{
+  "title": "Shades of light",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "C major",
+      "time_start": "01:00:01:11.29",
+      "time_end": "01:00:13:02.21"
+    },
+    {
+      "keynum": 2,
+      "key": "E major",
+      "time_start": "01:00:13:02.21",
+      "time_end": "01:00:17:11.29"
+    },
+    {
+      "keynum": 3,
+      "key": "C major",
+      "time_start": "01:00:17:11.29",
+      "time_end": "01:00:24:18.14"
+    }
+  ]
+}

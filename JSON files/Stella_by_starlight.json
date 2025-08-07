@@ -1,0 +1,23 @@
+{
+  "title": "Stella by starlight",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Bb major",
+      "time_start": "01:00:01:08.26",
+      "time_end": "01:00:16:00.00"
+    },
+    {
+      "keynum": 2,
+      "key": "F major",
+      "time_start": "01:00:16:00.00",
+      "time_end": "01:00:17:08.26"
+    },
+    {
+      "keynum": 3,
+      "key": "Bb major",
+      "time_start": "01:00:17:08.26",
+      "time_end": "01:00:44:00.00"
+    }
+  ]
+}

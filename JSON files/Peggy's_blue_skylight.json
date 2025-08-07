@@ -1,0 +1,41 @@
+{
+  "title": "Peggy's blue skylight",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F minor",
+      "time_start": "01:00:01:10.23",
+      "time_end": "01:00:05:16.14"
+    },
+    {
+      "keynum": 2,
+      "key": "Ab major",
+      "time_start": "01:00:05:16.14",
+      "time_end": "01:00:09:22.04"
+    },
+    {
+      "keynum": 3,
+      "key": "Db major",
+      "time_start": "01:00:09:22.04",
+      "time_end": "01:00:22:14.56"
+    },
+    {
+      "keynum": 4,
+      "key": "F major",
+      "time_start": "01:00:22:14.56",
+      "time_end": "01:00:28:05.70"
+    },
+    {
+      "keynum": 5,
+      "key": "Eb major",
+      "time_start": "01:00:28:05.70",
+      "time_end": "01:00:33:22.04"
+    },
+    {
+      "keynum": 6,
+      "key": "Db major",
+      "time_start": "01:00:33:22.04",
+      "time_end": "01:00:46:14.56"
+    }
+  ]
+}

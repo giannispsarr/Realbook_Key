@@ -1,0 +1,23 @@
+{
+  "title": "The saga of Harrison Crabfeathers",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "E minor",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:12:20.00"
+    },
+    {
+      "keynum": 2,
+      "key": "D minor",
+      "time_start": "01:00:12:20.00",
+      "time_end": "01:00:25:15.00"
+    },
+    {
+      "keynum": 3,
+      "key": "C minor",
+      "time_start": "01:00:25:15.00",
+      "time_end": "01:00:44:20.00"
+    }
+  ]
+}

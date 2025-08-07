@@ -1,0 +1,29 @@
+{
+  "title": "Three flowers",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Eb major",
+      "time_start": "01:00:01:10.23",
+      "time_end": "01:00:08:11.61"
+    },
+    {
+      "keynum": 2,
+      "key": "G major",
+      "time_start": "01:00:08:11.61",
+      "time_end": "01:00:16:23.42"
+    },
+    {
+      "keynum": 3,
+      "key": "E major",
+      "time_start": "01:00:16:23.42",
+      "time_end": "01:00:21:04.33"
+    },
+    {
+      "keynum": 4,
+      "key": "Eb major",
+      "time_start": "01:00:21:04.33",
+      "time_end": "01:00:40:23.42"
+    }
+  ]
+}

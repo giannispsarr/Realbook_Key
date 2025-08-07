@@ -1,0 +1,23 @@
+{
+  "title": "The song is you",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "C major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:13:06.02"
+    },
+    {
+      "keynum": 2,
+      "key": "E major",
+      "time_start": "01:00:13:06.02",
+      "time_end": "01:00:26:12.05"
+    },
+    {
+      "keynum": 3,
+      "key": "C major",
+      "time_start": "01:00:26:12.05",
+      "time_end": "01:00:39:18.08"
+    }
+  ]
+}

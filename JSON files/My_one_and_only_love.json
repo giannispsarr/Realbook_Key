@@ -1,0 +1,23 @@
+{
+  "title": "My one and only love",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "C major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:10:16.53"
+    },
+    {
+      "keynum": 2,
+      "key": "E minor",
+      "time_start": "01:00:10:16.53",
+      "time_end": "01:00:18:16.53"
+    },
+    {
+      "keynum": 3,
+      "key": "C major",
+      "time_start": "01:00:18:16.53",
+      "time_end": "01:00:32:00.00"
+    }
+  ]
+}

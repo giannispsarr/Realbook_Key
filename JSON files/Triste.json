@@ -1,0 +1,23 @@
+{
+  "title": "Triste",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Bb major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:16:00.00"
+    },
+    {
+      "keynum": 2,
+      "key": "D major",
+      "time_start": "01:00:16:00.00",
+      "time_end": "01:00:20:00.00"
+    },
+    {
+      "keynum": 3,
+      "key": "Bb major",
+      "time_start": "01:00:20:00.00",
+      "time_end": "01:00:45:08.26"
+    }
+  ]
+}

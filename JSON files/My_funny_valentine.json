@@ -1,0 +1,23 @@
+{
+  "title": "My funny valentine",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "C minor",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:18:14.41"
+    },
+    {
+      "keynum": 2,
+      "key": "Eb major",
+      "time_start": "01:00:18:14.41",
+      "time_end": "01:00:30:24.15"
+    },
+    {
+      "keynum": 3,
+      "key": "C minor",
+      "time_start": "01:00:30:24.15",
+      "time_end": "01:00:55:18.43"
+    }
+  ]
+}
