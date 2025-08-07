@@ -1,0 +1,29 @@
+{
+  "title": "Long ago and far away",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:12:00.00"
+    },
+    {
+      "keynum": 2,
+      "key": "Ab major",
+      "time_start": "01:00:12:00.00",
+      "time_end": "01:00:16:12.40"
+    },
+    {
+      "keynum": 3,
+      "key": "C major",
+      "time_start": "01:00:16:12.40",
+      "time_end": "01:00:21:00.00"
+    },
+    {
+      "keynum": 4,
+      "key": "F major",
+      "time_start": "01:00:21:00.00",
+      "time_end": "01:00:48:00.00"
+    }
+  ]
+}

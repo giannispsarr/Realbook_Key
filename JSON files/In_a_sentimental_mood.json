@@ -1,0 +1,23 @@
+{
+  "title": "In a sentimental mood",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F major",
+      "time_start": "01:00:01:09.22",
+      "time_end": "01:00:10:24.22"
+    },
+    {
+      "keynum": 2,
+      "key": "Db major",
+      "time_start": "01:00:10:24.22",
+      "time_end": "01:00:19:05.00"
+    },
+    {
+      "keynum": 3,
+      "key": "F major",
+      "time_start": "01:00:19:05.00",
+      "time_end": "01:00:34:07.11"
+    }
+  ]
+}

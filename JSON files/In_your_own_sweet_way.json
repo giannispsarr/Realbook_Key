@@ -1,0 +1,29 @@
+{
+  "title": "In your own sweet way",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Bb major",
+      "time_start": "01:00:01:10.23",
+      "time_end": "01:00:11:07.28"
+    },
+    {
+      "keynum": 2,
+      "key": "D major",
+      "time_start": "01:00:11:07.28",
+      "time_end": "01:00:16:23.42"
+    },
+    {
+      "keynum": 3,
+      "key": "C major",
+      "time_start": "01:00:16:23.42",
+      "time_end": "01:00:22:14.56"
+    },
+    {
+      "keynum": 4,
+      "key": "Bb major",
+      "time_start": "01:00:22:14.56",
+      "time_end": "01:00:35:07.28"
+    }
+  ]
+}

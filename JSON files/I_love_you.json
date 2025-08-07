@@ -1,0 +1,23 @@
+{
+  "title": "I love you",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F major",
+      "time_start": "01:00:01:00.42",
+      "time_end": "01:00:11:05.68"
+    },
+    {
+      "keynum": 2,
+      "key": "A major",
+      "time_start": "01:00:11:05.68",
+      "time_end": "01:00:16:08.40"
+    },
+    {
+      "keynum": 3,
+      "key": "F major",
+      "time_start": "01:00:16:08.40",
+      "time_end": "01:00:33:17.44"
+    }
+  ]
+}

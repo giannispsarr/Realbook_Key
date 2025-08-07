@@ -1,0 +1,23 @@
+{
+  "title": "It's a raggy waltz",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "G major",
+      "time_start": "01:00:01:01.37",
+      "time_end": "01:00:14:20.47"
+    },
+    {
+      "keynum": 2,
+      "key": "Ab major",
+      "time_start": "01:00:14:20.47",
+      "time_end": "01:00:19:01.37"
+    },
+    {
+      "keynum": 3,
+      "key": "G major",
+      "time_start": "01:00:19:01.37",
+      "time_end": "01:00:34:23.42"
+    }
+  ]
+}

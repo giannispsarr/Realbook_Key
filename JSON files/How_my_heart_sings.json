@@ -1,0 +1,23 @@
+{
+  "title": "How my heart sings",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "E minor",
+      "time_start": "01:00:01:05.00",
+      "time_end": "01:00:09:15.00"
+    },
+    {
+      "keynum": 2,
+      "key": "A minor",
+      "time_start": "01:00:09:15.00",
+      "time_end": "01:00:14:10.00"
+    },
+    {
+      "keynum": 3,
+      "key": "E major",
+      "time_start": "01:00:14:10.00",
+      "time_end": "01:00:22:20.00"
+    }
+  ]
+}

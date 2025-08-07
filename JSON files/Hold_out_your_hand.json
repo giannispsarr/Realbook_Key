@@ -1,0 +1,35 @@
+{
+  "title": "Hold out your hand",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "G major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:09:21.12"
+    },
+    {
+      "keynum": 2,
+      "key": "Bb major",
+      "time_start": "01:00:09:21.12",
+      "time_end": "01:00:22:03.67"
+    },
+    {
+      "keynum": 3,
+      "key": "D major",
+      "time_start": "01:00:22:03.67",
+      "time_end": "01:00:32:00.00"
+    },
+    {
+      "keynum": 4,
+      "key": "F major",
+      "time_start": "01:00:32:00.00",
+      "time_end": "01:00:36:23.06"
+    },
+    {
+      "keynum": 5,
+      "key": "G major",
+      "time_start": "01:00:36:23.06",
+      "time_end": "01:00:44:07.55"
+    }
+  ]
+}

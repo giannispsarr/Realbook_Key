@@ -1,0 +1,23 @@
+{
+  "title": "Lazybird",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "G major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:12:15.63"
+    },
+    {
+      "keynum": 2,
+      "key": "A major",
+      "time_start": "01:00:12:15.63",
+      "time_end": "01:00:13:22.29"
+    },
+    {
+      "keynum": 3,
+      "key": "G major",
+      "time_start": "01:00:13:22.29",
+      "time_end": "01:00:30:07.71"
+    }
+  ]
+}
