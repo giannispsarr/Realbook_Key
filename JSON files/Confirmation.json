@@ -1,0 +1,29 @@
+{
+  "title": "Confirmation",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F major",
+      "time_start": "01:00:01:06.46",
+      "time_end": "01:00:20:05.21"
+    },
+    {
+      "keynum": 2,
+      "key": "Bb major",
+      "time_start": "01:00:20:05.21",
+      "time_end": "01:00:25:06.46"
+    },
+    {
+      "keynum": 3,
+      "key": "Db major",
+      "time_start": "01:00:25:06.46",
+      "time_end": "01:00:29:01.25"
+    },
+    {
+      "keynum": 4,
+      "key": "F major",
+      "time_start": "01:00:29:01.25",
+      "time_end": "01:00:41:17.08"
+    }
+  ]
+}

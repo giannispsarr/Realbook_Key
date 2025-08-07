@@ -1,0 +1,23 @@
+{
+  "title": "Dear Old Stockholm",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "D minor",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:16:23.42"
+    },
+    {
+      "keynum": 2,
+      "key": "F major",
+      "time_start": "01:00:16:23.42",
+      "time_end": "01:00:22:14.56"
+    },
+    {
+      "keynum": 2,
+      "key": "D minor",
+      "time_start": "01:00:22:14.56",
+      "time_end": "01:00:25:10.23"
+    }
+  ]
+}

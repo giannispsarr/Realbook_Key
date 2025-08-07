@@ -1,0 +1,41 @@
+{
+  "title": "All the things you are",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Ab major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:09:07.20"
+    },
+    {
+      "keynum": 2,
+      "key": "C major",
+      "time_start": "01:00:09:07.20",
+      "time_end": "01:00:12:09.54"
+    },
+    {
+      "keynum": 3,
+      "key": "Eb major",
+      "time_start": "01:00:12:09.54",
+      "time_end": "01:00:21:16.74"
+    },
+    {
+      "keynum": 4,
+      "key": "G major",
+      "time_start": "01:00:21:16.74",
+      "time_end": "01:00:34:01.49"
+    },
+    {
+      "keynum": 5,
+      "key": "E major",
+      "time_start": "01:00:34:01.49",
+      "time_end": "01:00:37:04.02"
+    },
+    {
+      "keynum": 6,
+      "key": "Ab major",
+      "time_start": "01:00:37:04.02",
+      "time_end": "01:00:55:18.43"
+    }
+  ]
+}

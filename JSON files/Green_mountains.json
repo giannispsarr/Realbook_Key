@@ -1,0 +1,29 @@
+{
+  "title": "Green mountains",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "C major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:05:16.14"
+    },
+    {
+      "keynum": 2,
+      "key": "Ab major",
+      "time_start": "01:00:05:16.14",
+      "time_end": "01:00:11:07.28"
+    },
+    {
+      "keynum": 3,
+      "key": "F major",
+      "time_start": "01:00:11:07.28",
+      "time_end": "01:00:16:23.42"
+    },
+    {
+      "keynum": 4,
+      "key": "G major",
+      "time_start": "01:00:16:23.42",
+      "time_end": "01:00:29:16.14"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Elizete",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "A minor",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:33:15.00"
+    },
+    {
+      "keynum": 2,
+      "key": "C major",
+      "time_start": "01:00:33:15.00",
+      "time_end": "01:00:38:10.00"
+    }
+  ]
+}

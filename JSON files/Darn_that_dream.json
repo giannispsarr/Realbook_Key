@@ -1,0 +1,23 @@
+{
+  "title": "Darn that dream",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "G major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:16:00.00"
+    },
+    {
+      "keynum": 2,
+      "key": "Eb major",
+      "time_start": "01:00:16:00.00",
+      "time_end": "01:00:28:00.00"
+    },
+    {
+      "keynum": 3,
+      "key": "G major",
+      "time_start": "01:00:28:00.00",
+      "time_end": "01:00:48:00.00"
+    }
+  ]
+}

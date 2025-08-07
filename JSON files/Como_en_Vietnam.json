@@ -1,0 +1,23 @@
+{
+  "title": "Como en Vietnam",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Bb minor",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:06:10.00"
+    },
+    {
+      "keynum": 2,
+      "key": "E major",
+      "time_start": "01:00:06:10.00",
+      "time_end": "01:00:19:05.00"
+    },
+    {
+      "keynum": 3,
+      "key": "Bb minor",
+      "time_start": "01:00:19:05.00",
+      "time_end": "01:00:35:05.00"
+    }
+  ]
+}

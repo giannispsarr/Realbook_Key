@@ -1,0 +1,35 @@
+{
+  "title": "Autumn in New York",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:14:10.00"
+    },
+    {
+      "keynum": 2,
+      "key": "Ab major",
+      "time_start": "01:00:14:10.00",
+      "time_end": "01:00:25:15.00"
+    },
+    {
+      "keynum": 3,
+      "key": "F major",
+      "time_start": "01:00:25:15.00",
+      "time_end": "01:00:33:15.00"
+    },
+    {
+      "keynum": 4,
+      "key": "Bb minor",
+      "time_start": "01:00:33:15.00",
+      "time_end": "01:00:38:10.00"
+    },
+    {
+      "keynum": 5,
+      "key": "F minor",
+      "time_start": "01:00:38:10.00",
+      "time_end": "01:00:51:05.00"
+    }
+  ]
+}

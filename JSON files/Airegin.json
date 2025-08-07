@@ -1,0 +1,41 @@
+{
+  "title": "Airegin",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F minor",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:09:15.00"
+    },
+    {
+      "keynum": 2,
+      "key": "C major",
+      "time_start": "01:00:09:15.00",
+      "time_end": "01:00:11:18.26"
+    },
+    {
+      "keynum": 3,
+      "key": "Cb major",
+      "time_start": "01:00:11:18.26",
+      "time_end": "01:00:13:21.53"
+    },
+    {
+      "keynum": 4,
+      "key": "Bb major",
+      "time_start": "01:00:13:21.53",
+      "time_end": "01:00:17:01.53"
+    },
+    {
+      "keynum": 5,
+      "key": "Ab major",
+      "time_start": "01:00:17:01.53",
+      "time_end": "01:00:21:08.26"
+    },
+    {
+      "keynum": 6,
+      "key": "F minor",
+      "time_start": "01:00:21:08.26",
+      "time_end": "01:00:37:08.26"
+    }
+  ]
+}

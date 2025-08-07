@@ -1,0 +1,23 @@
+{
+  "title": "Days and nights waiting",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Bb major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:04:24.11"
+    },
+    {
+      "keynum": 2,
+      "key": "D major",
+      "time_start": "01:00:04:24.11",
+      "time_end": "01:00:13:06.02"
+    },
+    {
+      "keynum": 3,
+      "key": "Bb major",
+      "time_start": "01:00:13:06.02",
+      "time_end": "01:00:26:12.05"
+    }
+  ]
+}

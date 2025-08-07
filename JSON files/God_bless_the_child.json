@@ -1,0 +1,23 @@
+{
+  "title": "God bless the child",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Eb major",
+      "time_start": "01:00:01:13.56",
+      "time_end": "01:00:15:12.07"
+    },
+    {
+      "keynum": 2,
+      "key": "C minor",
+      "time_start": "01:00:15:12.07",
+      "time_end": "01:00:26:08.05"
+    },
+    {
+      "keynum": 3,
+      "key": "Eb major",
+      "time_start": "01:00:26:08.05",
+      "time_end": "01:00:30:24.15"
+    }
+  ]
+}

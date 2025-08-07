@@ -1,0 +1,35 @@
+{
+  "title": "Golden lady",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Eb major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:12:20.00"
+    },
+    {
+      "keynum": 2,
+      "key": "Bb major",
+      "time_start": "01:00:12:20.00",
+      "time_end": "01:00:16:00.00"
+    },
+    {
+      "keynum": 3,
+      "key": "Gb major",
+      "time_start": "01:00:16:00.00",
+      "time_end": "01:00:19:05.00"
+    },
+    {
+      "keynum": 4,
+      "key": "E major",
+      "time_start": "01:00:19:05.00",
+      "time_end": "01:00:25:15.00"
+    },
+    {
+      "keynum": 5,
+      "key": "G minor",
+      "time_start": "01:00:25:15.00",
+      "time_end": "01:00:41:15.00"
+    }
+  ]
+}

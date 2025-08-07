@@ -1,0 +1,23 @@
+{
+  "title": "Black Diamond",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "Gb major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:11:01.73"
+    },
+    {
+      "keynum": 2,
+      "key": "Fb major",
+      "time_start": "01:00:11:01.73",
+      "time_end": "01:00:22:03.67"
+    },
+    {
+      "keynum": 3,
+      "key": "C major",
+      "time_start": "01:00:22:03.67",
+      "time_end": "01:00:34:15.30"
+    }
+  ]
+}

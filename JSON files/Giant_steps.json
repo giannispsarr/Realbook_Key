@@ -1,0 +1,71 @@
+{
+  "title": "Giant steps",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "B major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:00:12.40"
+    },
+    {
+      "keynum": 2,
+      "key": "G major",
+      "time_start": "01:00:00:12.40",
+      "time_end": "01:00:01:12.40"
+    },
+    {
+      "keynum": 3,
+      "key": "Eb major",
+      "time_start": "01:00:01:12.40",
+      "time_end": "01:00:03:00.00"
+    },
+    {
+      "keynum": 4,
+      "key": "G major",
+      "time_start": "01:00:03:00.00",
+      "time_end": "01:00:04:12.40"
+    },
+    {
+      "keynum": 5,
+      "key": "Eb major",
+      "time_start": "01:00:04:12.40",
+      "time_end": "01:00:05:12.40"
+    },
+    {
+      "keynum": 6,
+      "key": "B major",
+      "time_start": "01:00:05:12.40",
+      "time_end": "01:00:07:00.00"
+    },
+    {
+      "keynum": 7,
+      "key": "Eb major",
+      "time_start": "01:00:07:00.00",
+      "time_end": "01:00:09:00.00"
+    },
+    {
+      "keynum": 8,
+      "key": "G major",
+      "time_start": "01:00:09:00.00",
+      "time_end": "01:00:11:00.00"
+    },
+    {
+      "keynum": 9,
+      "key": "B major",
+      "time_start": "01:00:11:00.00",
+      "time_end": "01:00:13:00.00"
+    },
+    {
+      "keynum": 10,
+      "key": "Eb major",
+      "time_start": "01:00:13:00.00",
+      "time_end": "01:00:15:00.00"
+    },
+    {
+      "keynum": 11,
+      "key": "B major",
+      "time_start": "01:00:15:00.00",
+      "time_end": "01:00:17:00.00"
+    }
+  ]
+}
