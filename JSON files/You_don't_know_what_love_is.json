@@ -1,0 +1,23 @@
+{
+  "title": "You don't know what love is",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F minor",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:16:00.00"
+    },
+    {
+      "keynum": 2,
+      "key": "C major",
+      "time_start": "01:00:16:00.00",
+      "time_end": "01:00:18:16.53"
+    },
+    {
+      "keynum": 3,
+      "key": "F minor",
+      "time_start": "01:00:18:16.53",
+      "time_end": "01:00:32:00.00"
+    }
+  ]
+}

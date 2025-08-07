@@ -1,0 +1,23 @@
+{
+  "title": "Waltz for Debby",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "F major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:09:11.67"
+    },
+    {
+      "keynum": 2,
+      "key": "A major",
+      "time_start": "01:00:09:11.67",
+      "time_end": "01:00:15:03.75"
+    },
+    {
+      "keynum": 3,
+      "key": "F major",
+      "time_start": "01:00:15:03.75",
+      "time_end": "01:00:31:06.46"
+    }
+  ]
+}

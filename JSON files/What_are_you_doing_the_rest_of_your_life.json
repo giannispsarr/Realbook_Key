@@ -1,0 +1,35 @@
+{
+  "title": "What are you doing the rest of your life",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "A minor",
+      "time_start": "01:00:01:06.46",
+      "time_end": "01:00:07:14.37"
+    },
+    {
+      "keynum": 2,
+      "key": "A major",
+      "time_start": "01:00:07:14.37",
+      "time_end": "01:00:15:03.75"
+    },
+    {
+      "keynum": 3,
+      "key": "Gb major",
+      "time_start": "01:00:15:03.75",
+      "time_end": "01:00:17:17.08"
+    },
+    {
+      "keynum": 4,
+      "key": "F major",
+      "time_start": "01:00:17:17.08",
+      "time_end": "01:00:20:05.21"
+    },
+    {
+      "keynum": 5,
+      "key": "A minor",
+      "time_start": "01:00:20:05.21",
+      "time_end": "01:00:41:17.08"
+    }
+  ]
+}

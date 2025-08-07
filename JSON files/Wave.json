@@ -1,0 +1,29 @@
+{
+  "title": "Wave",
+  "keylist": [
+    {
+      "keynum": 1,
+      "key": "D major",
+      "time_start": "01:00:00:00.00",
+      "time_end": "01:00:14:19.18"
+    },
+    {
+      "keynum": 2,
+      "key": "F major",
+      "time_start": "01:00:14:19.18",
+      "time_end": "01:00:19:17.24"
+    },
+    {
+      "keynum": 3,
+      "key": "Eb major",
+      "time_start": "01:00:19:17.24",
+      "time_end": "01:00:23:09.49"
+    },
+    {
+      "keynum": 4,
+      "key": "D major",
+      "time_start": "01:00:23:09.49",
+      "time_end": "01:00:39:09.49"
+    }
+  ]
+}
